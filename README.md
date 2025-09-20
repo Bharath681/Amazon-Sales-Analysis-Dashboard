@@ -55,4 +55,6 @@ Example:
 ## 👤 Author
 **Bharath Telugu**  
 📧 Email: [telugubharath4@gmail.com](mailto:telugubharath4@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)  
+🔗 LinkedIn: www.linkedin.com/in/bharath-t-583468285
+
+
